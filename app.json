@@ -1,7 +1,7 @@
 {
     "name": "String Gen Bot",
     "description": "A Telegram Bot to generate Telethon and Pyrogram String Session.",
-    "logo": "https://telegra.ph/file/654ddaf472f18b799600b.jpg",
+    "logo": "https://graph.org/file/0f4441c0c2d8ba836d988.jpg",
     "keywords": [
         "python3",
         "telegram",
